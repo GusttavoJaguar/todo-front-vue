@@ -56,7 +56,7 @@ onMounted(loadTasks)
 
 <template>
   <div class="container">
-    <h1>Lista de Tarefas</h1>
+    <h1>Lista de tarefas diárias</h1>
 
     <input
       v-model="title"
